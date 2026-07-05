@@ -20,8 +20,11 @@
 </div>
 
 ## 📖 1. Giới thiệu
-Platform ERP được áp dụng vào học phần Thực tập doanh nghiệp dựa trên mã nguồn mở Odoo. 
+Hệ thống **Quản lý Chấm công – Tính lương** được xây dựng nhằm số hóa quy trình quản lý nhân sự, theo dõi thời gian làm việc và tính lương một cách chính xác, minh bạch và hiệu quả. Giải pháp giúp doanh nghiệp thay thế phương pháp quản lý thủ công, giảm thiểu sai sót trong quá trình xử lý dữ liệu, tối ưu thời gian làm việc của bộ phận nhân sự và nâng cao hiệu quả quản trị nguồn nhân lực.
 
+Hệ thống được phát triển trên nền tảng Odoo với kiến trúc module hóa, bao gồm ba phân hệ cốt lõi: **Quản lý Nhân sự**, **Chấm công** và **Tính lương**. Phân hệ Quản lý Nhân sự lưu trữ và quản lý tập trung thông tin nhân viên, phòng ban, chức vụ và các dữ liệu nền tảng. Phân hệ Chấm công hỗ trợ ghi nhận thời gian làm việc, ca làm, giờ vào – ra, nghỉ phép, tăng ca và các loại đơn từ. Dựa trên dữ liệu được đồng bộ từ các phân hệ liên quan, phân hệ Tính lương tự động tính toán bảng lương và phiếu lương theo hợp đồng lao động, phụ cấp, khấu trừ, thuế và các chính sách tiền lương của doanh nghiệp.
+
+Với kiến trúc linh hoạt, khả năng mở rộng và tích hợp cao, hệ thống đáp ứng hiệu quả nhu cầu quản lý của các doanh nghiệp vừa và nhỏ, đồng thời tạo nền tảng vững chắc để phát triển thêm các chức năng như đánh giá hiệu suất, tuyển dụng, quản lý đào tạo, quản lý tài sản và các phân hệ ERP khác trong tương lai.
 ## 🔧 2. Các công nghệ được sử dụng
 <div align="center">
 
