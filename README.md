@@ -145,8 +145,8 @@ Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ đ
 
 ## 📝 6. License
 
-👨‍🎓 Sinh viên thực hiện: Nguyễn Phú Việt An
-🎓 Khoa: Công nghệ thông tin – Đại học Đại Nam
+👨‍🎓 Sinh viên thực hiện: Nguyễn Phú Việt An  
+🎓 Khoa: Công nghệ thông tin – Đại học Đại Nam  
 📧 Email: vietannp265@gmail.com
 
 
